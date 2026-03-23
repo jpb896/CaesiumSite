@@ -12,7 +12,9 @@
 https://caesiumos.vercel.app/changeloglist.html
 </link>
 <description>
+  <![CDATA[
 <h2>bluejay: 3.5.0</h2> <p><i>Initial release </i></p> <p><b>Known issues</b>: </p><p>- The updater app cannot check for updates</p>
+]]>
 </description>
 <pubDate>Thu, 01 Jan 2026 00:00:00 -0000</pubDate>
 <guid isPermaLink="false">
