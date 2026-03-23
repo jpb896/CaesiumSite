@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://caesiumos.vercel.app/getbuilds.html#changelog</id>
+    <link href="https://caesiumos.vercel.app/getbuilds.html"/>
+    <link rel="self" href="https://caesiumos.vercel.app/feed.xml"/>
+    <title>CaesiumOS releases</title>
+    <updated>1774301118</updated>
+    <author>
+        <name>jpb</name>
+        <email>jpb44173@gmail.com</email>
+        <uri>https://jpb896.vercel.app/</uri>
+    </author>
+    <entry>
+        <id>e</id>
+        <link href="https://caesiumos.vercel.app/getbuilds.html"/>
+        <title>CaesiumOS 3.5.0 bluejay release</title>
+        <updated>1767225600</updated>
+        <published>1767225600</published>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><i>Initial release </i></p><p><b>Known issues</b>: <br>- The updater app cannot check for updates</p>
+            </div>
+        </content>
+    </entry>
+</feed>
