@@ -5,7 +5,22 @@
 <link>https://caesiumos.vercel.app/changeloglist.html</link>
 <description/>
 <language>en</language>
-<lastBuildDate>Mon, 23 Mar 2026 22:05:13 -0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 22:56:00 -0000</lastBuildDate>
+  <item>
+<title>bluejay: 3.5.2</title>
+<link>
+https://caesiumos.vercel.app/changeloglist.html
+</link>
+<description>
+  <![CDATA[
+<p><i>Initial release </i> based on new codebase<br><br><b>CaesiumOS 3.5 (26Q1)</b><br>- 6.1.166 kernel update<br>- Update security patch to 2026-03-01<br>- Advanced restart: Easily reboot to rcovery, fastboot and bootloader<br>- Improved personalization: More icon shapes have been added<br>- Flashlight strength: Flashlight brightness can now be changed<br>- EyeDropper: Picking colors from your currently open app has never been easier! Open the app via an activity launcher app to try it out, as it's currently not available as an app normally visible to users.<br>- Location indicator: The location indicator/privacy chip now has a blue color.<br>- Updater: The app works properly now and updates will be serviced through it going forward.</p>
+]]>
+</description>
+<pubDate>Wed, 25 Mar 2026 22:56:00 -0000</pubDate>
+<guid isPermaLink="false">
+https://caesiumos.vercel.app/changeloglist.html
+</guid>
+</item>
 <item>
 <title>bluejay: 3.5.0</title>
 <link>
